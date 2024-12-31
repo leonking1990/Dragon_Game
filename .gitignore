@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Caches and logs
+.cache/
+.config/
+.local/
+.upm/
+
+# Environment-specific files
+*.env
+*.venv
+.env.*
+.venv/
+
+# Ignore Mac and Windows metadata files
+.DS_Store
+Thumbs.db

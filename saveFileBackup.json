@@ -1,0 +1,53 @@
+{
+      "Save 1": {
+            "No": 1,
+            "Name": "Leon",
+            "Level": 50,
+            "Coin": 4502,
+            "EXP": 999,
+            "EXP_to_next_level": 1001,
+            "Legendary": true,
+            "Sword": [
+                  "Old Sward",
+                  3
+            ],
+            "Shield": [
+                  "Legedary Shield",
+                  50
+            ]
+      },
+      "Save 2": {
+            "No": 2,
+            "Name": "New Challenger",
+            "Level": 1,
+            "Coin": 0,
+            "EXP": 0,
+            "EXP_to_next_level": 1000,
+            "Legendary": false,
+            "Sword": [
+                  "Old Sward",
+                  3
+            ],
+            "Shield": [
+                  "Old Shield",
+                  3
+            ]
+      },
+      "Save 3": {
+            "No": 3,
+            "Name": "New Challenger",
+            "Level": 1,
+            "Coin": 0,
+            "EXP": 0,
+            "EXP_to_next_level": 1000,
+            "Legendary": false,
+            "Sword": [
+                  "Old Sward",
+                  3
+            ],
+            "Shield": [
+                  "Old Shield",
+                  3
+            ]
+      }
+}

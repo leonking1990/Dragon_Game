@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.poetry]
+name = "dragon-battle-game"
+version = "1.0.0"
+description = "A text-based game featuring dragon battles."
+authors = ["Stevie D. Littleton <me@stevelit.net>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2.5"
+flake8 = "^4.0.1"
+
+[tool.black]
+line-length = 88
+target-version = ["py38"]
